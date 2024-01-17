@@ -16,8 +16,8 @@
     --sky: #89dceb;
     --lavender: #c9cbff;
     --rosewater: #f5e0dc;
-    --font: monospace; /*"FiraCode Nerd Font Mono";*/
-
+    --font: "Hack Nerd Font";
+    
     /* vimium theme uses colors: flamingo, peach, rosewater, green, blue, lavender */
     --tridactyl-fg: var(--fg);
     --tridactyl-bg: var(--bg);
@@ -46,7 +46,7 @@
 
 #command-line-holder {
     order: 1;
-    border: 2px solid var(--lavender);
+    border: 2px solid var(--pink);
     background: var(--tridactyl-bg);
 }
 
